@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2021 Sebastian Rasor <https://www.sebastianrasor.com/contact>
+ * Copyright (c) 2021 Sebastian Riley Rasor <https://www.sebastianrasor.com/contact>
  *
  * Permission to use, copy, modify, and distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above
